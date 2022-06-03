@@ -1,0 +1,56 @@
+/*------------------------------------ TAG SELECTOR --------------------------------------*/
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: auto 0 auto 0;
+    padding-top: 200px;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+/*---------------------------------- CLASS SELECTOR --------------------------------------*/
+
+.top_container{
+    background-color: #E4F9F5;
+    
+}
+
+.middle_container{
+    background-color: #72afe4;
+    margin: 0;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom_container{
+    background-color: chartreuse;
+    margin: 0;
+    height: 200px;
+    width: 200px;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 25%;
+    top : 15%;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 25%;
+    top: 45%;
+
+}
+/*----------------------------------- ID SELECTOR ----------------------------------------*/
+/* #div-1-h{
+    display: inline-block;
+}
+#div-1-p{
+    display: inline-block;
+} */
